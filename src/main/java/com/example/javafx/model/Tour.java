@@ -10,7 +10,7 @@ public class Tour {
     }
 
     public String getName() {
-        return "Tourname: " + name;
+        return name;
     }
 
     public void setName(String name) {
